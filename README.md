@@ -1,6 +1,6 @@
 # Adidas Sales Dashboard
 
-This project presents a comprehensive Power BI dashboard analyzing Adidas sales performance across different dimensions such as region, product category, sales method, and time period. The insights derived support business decision-making and optimization of sales strategies.
+This project presents a comprehensive Excel dashboard analyzing Adidas sales performance across different dimensions such as region, product category, sales method, and time period. The insights derived support business decision-making and optimization of sales strategies.
 
 ---
 
