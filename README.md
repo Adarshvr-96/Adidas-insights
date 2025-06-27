@@ -93,6 +93,14 @@ This project presents a comprehensive Excel dashboard analyzing Adidas sales per
 * Excel for measures
 * Excel For Dashboard
 
-## Dashboard
+## Dashboard: https://1drv.ms/x/c/0bacfbe2caa2e81c/EaGXGY1NfwdAr9k1i7qwW_gBzU6yMaLboAVfUf72F7hgUg?e=76ea8W
 
 ![Image](https://github.com/user-attachments/assets/c77d39df-b1fb-4491-83f1-30412f82cac5)
+
+----
+
+## Contact
+For any queries, feel free to reach out at:
+- **Gmail**: adarshvr67@gmail.com
+- **GitHub**: https://github.com/Adarshvr-96
+- **LinkedIn**:https://www.linkedin.com/in/adarsh-vr96
